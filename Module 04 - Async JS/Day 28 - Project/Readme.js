@@ -1,2 +1,2 @@
-//I watched the entire video. Very instructive. Notes not required, however.
-//Also, I decided not to work on this particular project as I did not deem it very braggable on my CV.
+// Watched the full lesson. No separate notes needed: the concepts are covered in Days 22 to 27.
+// Skipped building this project to focus on my own projects, where I apply the same async patterns.
