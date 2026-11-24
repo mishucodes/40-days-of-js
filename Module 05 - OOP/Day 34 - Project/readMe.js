@@ -1,2 +1,2 @@
-//Not building the exact same project because I don't think another library management on Netlify would be a good idea.
-//I'll probably use the principles in this module & lecture in some other project.
+// Skipped rebuilding the library management project from the lesson.
+// I'll apply the same OOP patterns in my own projects instead.
